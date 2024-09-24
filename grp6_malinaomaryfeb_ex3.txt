@@ -1,2 +1,0 @@
-Hello, this is a test content.
-Welcome to the file functions example!
